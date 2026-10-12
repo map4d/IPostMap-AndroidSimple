@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: điền Map ID từ trang quản lý Map4D -->
+    <string name="map_id" translatable="false">628c50326f496cf5b4c84993</string>
+</resources>
